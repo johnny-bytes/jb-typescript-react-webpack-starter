@@ -1,0 +1,14 @@
+node_modules
+.idea
+.parcel-cache
+dist
+.vscode
+.eslintrc
+.eslintignore
+.prettierrc
+Dockerfile
+.git
+.gitignore
+sample.config.yml
+config.development.yml
+build
